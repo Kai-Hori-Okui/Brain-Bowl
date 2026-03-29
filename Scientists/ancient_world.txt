@@ -1,0 +1,26 @@
+Aristotle
+- Foundational contribution to biology, zoology, physics, and natural philosophy
+- Classified animals systematically; wrote *History of animals*
+- Proposed four elements (earth, water, air, fire) and four causes
+- His physics (including the idea that heavier objects fall faster) dominated for nearly two millenia until Galileo disproved it
+- Advocated the geocentric model of the universe
+- Tutor of Alexander the Great
+
+Archimedes
+- **___ Principle**: a body immersed in fluid is buoyed up by a force equal to the weight of the fluid displaced
+- Reportedly discovered his principle and shouted "Eureka!"
+- Calculated approximations of pi
+- Invented the **___ screw** for raising water
+- Devised war machines to defend Syracuse; killed by a Roman soldier during the Siege
+
+Eratosthenes
+- Calculated the circumference of the Earth with remarkable accuracy using shadows and geometry
+- **Sieve of ___**: algorithm for finding prime numbers
+
+Claudius Ptolemy
+- Geocentric model of the universe in the *Almagest*
+- His model, using epicycles to explain planetary motion, dominated astronomy for over 1400 years until Copernicus
+
+Galen
+- Foudnational figure in anatomy and physiology
+- His writings on the human body, though largely on animal dissection, were the authority in medicine for over 1300 years until Vesalius

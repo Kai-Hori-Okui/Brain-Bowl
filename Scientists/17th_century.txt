@@ -1,0 +1,51 @@
+Johannes Kepler
+- Used Tycho Brahe's data to derive his three laws of planetary motion
+- ___ First law: planets travel in elliptical orbits with the Sun at one focus
+- ___ Second law: a line connecting a planet to the Sun sweeps out equal areas in equal times
+- ___ Third law: the square of a plent's orbital period is proportional to the cube of its semi-major axis
+
+Christiaan Huygens
+- Invented the pendulum clock (1656), greatly improving timekeeping accuracy
+- Proposed the wave theory of light
+- Discovered Titan, Saturn's largest moon, and identified the rings of Saturn
+
+Robert Boyle
+- **___ Law**: at constant temperature, the pressure and volume of a gas are inversely proportional
+- Published *The Sceptical Chymist* (1661), which challenged Aristotelian and alchemical ideas of elements
+- Helped establish the distinction between elements and compounds
+
+Francesco Redi
+- One of the first to challenge the theory of spontaneous generation
+- Famous meat-in-hars experiment (1668): showed maggots appeared only on meat accessible to flies
+
+Robert Hooke
+- **___ Law**: the force exerted by a spring is proportional to its displacement
+- Published *Microrgaphia* (1665); coined the term "cell" to describe the structures he observed in cork
+- Built one of the first working Gregorian reflecting telescopes
+- Proposed the inverse square law of gravity (leading to a priority dispute with Newton)
+- Discovered the diffraction of light
+
+Blaise Pascal
+- **___ Law**: pressure applied to a confined fluid is transmitted equally in all directions
+- SI unit of pressure named after him
+- Pioneered work in probability theory (with Fermat)
+- Invented an early mechanical calculator
+- Studied fluid dynamics and atmospheric pressure; demonstrated that air pressure decreases with altitude
+
+Antonie van Leeuwenhoek
+- Father of microbiology
+- Constructed single-lense microscopes with magnification up to 270x
+- Discovered protozoa, which he called "animalcules"
+- First to observe bacteria, red blood cells, spermatozoa, capillaries, and muscle fibers
+
+Issac Newton
+- Discovered the law of universal gravitation
+- **___ First Law**: an object at rest stays at rest, and an object in motion stays in motion, unless acted upon by an external force
+- **___ Second Law**: force equals mass times acceleration
+- **___ Third Law**: for every action, there is an equal and opposite reaction
+- Invented calculus independently of Leibniz (leading to a famous priority dispute)
+- Published *Principia* (1687), one of the most important scientific works ever written
+- Built the first practical reflecting telescope in 1668
+- Studied optics: demonstrated that white light is composed of a spectrum of colors using a prism
+- SI unit of force named for him
+- Buried at Westminster Abbey
